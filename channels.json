@@ -7,18 +7,15 @@
   "website": "https://moroccotv.app",
 
   "ads": {
-    "enable_ads": true,
-    "open_on_start": true,
-    "inter_every": 2,
-
-    "admob_banner": "ca-app-pub-6369463662612526/4141860605",
-    "admob_inter": "ca-app-pub-6369463662612526/3845503240",
-    "admob_open": "ca-app-pub-3940256099942544/3419835294",
-
-    "fb_banner": "IMG_16_9_APP_INSTALL#xxxxxxxx",
-    "fb_inter": "IMG_16_9_APP_INSTALL#xxxxxxxx"
+  "enable_ads": true,
+  "open_on_start": true,
+  "inter_every": 2,
+  "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+  "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+  "admob_open": "ca-app-pub-3940256099942544/3419835294",
+  "fb_banner": "",
+  "fb_inter": ""
   },
-
   "channels": [
     {
       "id": "channel_001",
