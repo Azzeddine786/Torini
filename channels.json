@@ -1,10 +1,14 @@
 {
-  "version": "2024.2.0",
-  "last_updated": "2024-04-01",
-  "update_message": "جميع القنوات المغربية متوفرة الآن 🎬",
+  "version": "2024.4.0",
+  "last_updated": "2024-04-02",
+  "update_message": "جميع القنوات المغربية متاحة الآن 🎬",
+  "total_channels": 12,
+  "author": "Morocco TV App",
+  "website": "https://moroccotv.app",
+  
   "channels": [
     {
-      "id": "1",
+      "id": "channel_001",
       "name_ar": "2M",
       "name_fr": "Deux M",
       "logo": "m2",
@@ -13,10 +17,11 @@
       "category": "مغربية",
       "is_snrt": false,
       "is_active": true,
-      "order": 1
+      "order": 1,
+      "description": "أشهر قناة وطنية - القناة الثانية المغربية"
     },
     {
-      "id": "2",
+      "id": "channel_002",
       "name_ar": "الأولى",
       "name_fr": "Al Oula",
       "logo": "aloula",
@@ -25,10 +30,11 @@
       "category": "مغربية",
       "is_snrt": true,
       "is_active": true,
-      "order": 2
+      "order": 2,
+      "description": "القناة الوطنية الأولى المغربية"
     },
     {
-      "id": "3",
+      "id": "channel_003",
       "name_ar": "الرياضية",
       "name_fr": "Arryadia",
       "logo": "arryadia",
@@ -37,10 +43,11 @@
       "category": "رياضية",
       "is_snrt": true,
       "is_active": true,
-      "order": 3
+      "order": 3,
+      "description": "القناة الرياضية المغربية الرسمية"
     },
     {
-      "id": "4",
+      "id": "channel_004",
       "name_ar": "المغربية",
       "name_fr": "Al Maghribia",
       "logo": "maghribia",
@@ -49,10 +56,11 @@
       "category": "مغربية",
       "is_snrt": true,
       "is_active": true,
-      "order": 4
+      "order": 4,
+      "description": "قناة المغربية - برامج متنوعة"
     },
     {
-      "id": "5",
+      "id": "channel_005",
       "name_ar": "السادسة",
       "name_fr": "Assadissa",
       "logo": "assadissa",
@@ -61,10 +69,11 @@
       "category": "مغربية",
       "is_snrt": true,
       "is_active": true,
-      "order": 5
+      "order": 5,
+      "description": "قناة السادسة الإخبارية"
     },
     {
-      "id": "6",
+      "id": "channel_006",
       "name_ar": "الأمازيغية",
       "name_fr": "Tamazight TV",
       "logo": "tamazight",
@@ -73,34 +82,37 @@
       "category": "مغربية",
       "is_snrt": true,
       "is_active": true,
-      "order": 6
+      "order": 6,
+      "description": "قناة الأمازيغية - للثقافة الأمازيغية"
     },
     {
-      "id": "7",
+      "id": "channel_007",
       "name_ar": "العيون",
       "name_fr": "Laayoune TV",
       "logo": "laayoune",
       "stream_url": "https://stream-lb.livemedia.ma/laayounetv/hls/stream_0/playlist.m3u8",
       "web_url": "https://snrtlive.ma/fr/laayoune",
-      "category": "مغربية",
+      "category": "جهوية",
       "is_snrt": true,
       "is_active": true,
-      "order": 7
+      "order": 7,
+      "description": "قناة العيون - جهة العيون الساقية الحمراء"
     },
     {
-      "id": "8",
+      "id": "channel_008",
       "name_ar": "أفلام",
       "name_fr": "Aflam TV",
       "logo": "aflam",
       "stream_url": "https://stream-lb.livemedia.ma/aflam/hls/stream_0/playlist.m3u8",
       "web_url": "https://snrtlive.ma/fr/aflam",
-      "category": "أفلام",
+      "category": "ترفيه",
       "is_snrt": true,
       "is_active": true,
-      "order": 8
+      "order": 8,
+      "description": "قناة أفلام - أفضل الأفلام العربية والعالمية"
     },
     {
-      "id": "9",
+      "id": "channel_009",
       "name_ar": "Medi1TV",
       "name_fr": "Médi 1 TV",
       "logo": "medi1",
@@ -109,10 +121,11 @@
       "category": "أخبار",
       "is_snrt": false,
       "is_active": true,
-      "order": 9
+      "order": 9,
+      "description": "قناة ميدي 1 تيفي - الأخبار الدولية"
     },
     {
-      "id": "10",
+      "id": "channel_010",
       "name_ar": "M24",
       "name_fr": "M24 TV",
       "logo": "m24",
@@ -121,10 +134,11 @@
       "category": "أخبار",
       "is_snrt": false,
       "is_active": true,
-      "order": 10
+      "order": 10,
+      "description": "قناة M24 - الأخبار المغربية والدولية"
     },
     {
-      "id": "11",
+      "id": "channel_011",
       "name_ar": "Tele Maroc",
       "name_fr": "Télé Maroc",
       "logo": "telemaroc",
@@ -133,10 +147,11 @@
       "category": "مغربية",
       "is_snrt": false,
       "is_active": true,
-      "order": 11
+      "order": 11,
+      "description": "تلفزيون المغرب - برامج متنوعة"
     },
     {
-      "id": "12",
+      "id": "channel_012",
       "name_ar": "Chada TV",
       "name_fr": "Chada TV",
       "logo": "chada",
@@ -145,55 +160,28 @@
       "category": "دينية",
       "is_snrt": false,
       "is_active": true,
-      "order": 12
-    },
-    {
-      "id": "13",
-      "name_ar": "قناة محمد السادس للقرآن الكريم",
-      "name_fr": "Chaîne Mohammed VI du Saint Coran",
-      "logo": "m2",
-      "stream_url": "https://stream-lb.livemedia.ma/alkourane/hls/stream_0/playlist.m3u8",
-      "web_url": "https://snrtlive.ma/fr/alkourane",
-      "category": "دينية",
-      "is_snrt": true,
-      "is_active": true,
-      "order": 13
-    },
-    {
-      "id": "14",
-      "name_ar": "الفلاح",
-      "name_fr": "Al Aoula",
-      "logo": "aloula",
-      "stream_url": "https://stream-lb.livemedia.ma/alaoula-tnt/hls/stream_0/playlist.m3u8",
-      "web_url": "https://snrtlive.ma/fr/aloula",
-      "category": "مغربية",
-      "is_snrt": true,
-      "is_active": true,
-      "order": 14
-    },
-    {
-      "id": "15",
-      "name_ar": "RTM International",
-      "name_fr": "RTM International",
-      "logo": "m2",
-      "stream_url": "https://stream-lb.livemedia.ma/rtm-int/hls/stream_0/playlist.m3u8",
-      "web_url": "https://snrtlive.ma/fr/rtm-int",
-      "category": "مغربية",
-      "is_snrt": true,
-      "is_active": true,
-      "order": 15
-    },
-    {
-      "id": "16",
-      "name_ar": "Al Manar",
-      "name_fr": "Al Manar",
-      "logo": "m2",
-      "stream_url": "https://stream-lb.livemedia.ma/almanar/hls/stream_0/playlist.m3u8",
-      "web_url": "https://snrtlive.ma/fr/almanar",
-      "category": "دينية",
-      "is_snrt": true,
-      "is_active": true,
-      "order": 16
+      "order": 12,
+      "description": "قناة شدة - برامج دينية واجتماعية"
     }
-  ]
+  ],
+  
+  "categories": [
+    {"id": "1", "name_ar": "مغربية", "name_fr": "Marocaine", "color": "#FF6200EE"},
+    {"id": "2", "name_ar": "رياضية", "name_fr": "Sport", "color": "#FF03DAC5"},
+    {"id": "3", "name_ar": "أخبار", "name_fr": "Actualités", "color": "#FF018786"},
+    {"id": "4", "name_ar": "دينية", "name_fr": "Religieuse", "color": "#FF3700B3"},
+    {"id": "5", "name_ar": "ترفيه", "name_fr": "Divertissement", "color": "#FFFF5722"},
+    {"id": "6", "name_ar": "جهوية", "name_fr": "Régionale", "color": "#FF4CAF50"}
+  ],
+  
+  "settings": {
+    "auto_update": true,
+    "update_interval_hours": 6,
+    "cache_enabled": true,
+    "cache_duration_minutes": 60,
+    "default_player": "exoplayer",
+    "quality": "auto",
+    "enable_pip": true,
+    "enable_notifications": true
+  }
 }
