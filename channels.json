@@ -13,8 +13,8 @@
   "admob_banner": "ca-app-pub-3940256099942544/6300978111",
   "admob_inter": "ca-app-pub-3940256099942544/1033173712",
   "admob_open": "ca-app-pub-3940256099942544/3419835294",
-  "fb_banner": "",
-  "fb_inter": ""
+  "fb_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "fb_inter": "IMG_16_9_APP_INSTALL#2312433698835503_2964952166916983"
   },
   "channels": [
     {
