@@ -10,7 +10,7 @@
   "ads": {
   "enable_ads": true,
   "open_on_start": true,
-  "inter_every": 2,
+  "inter_every": 1,
   "admob_banner": "ca-app-pub-/6300978111",
   "admob_inter": "ca-app-pub-3940256099942544/1033173712",
   "admob_open": "",
