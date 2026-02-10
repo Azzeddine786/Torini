@@ -132,7 +132,7 @@
       "name_fr": "M24 TV",
       "logo": "m24",
       "stream_url": "https://stream-lb.livemedia.ma/m24maroc/hls/stream_1/playlist.m3u8",
-      "web_url": "https://m24.ma",
+      "web_url": "https://67aac8c668349.streamlock.net/live/ngrp:Live2.stream_all/playlist.m3u8",
       "category": "أخبار",
       "is_snrt": false,
       "is_active": true,
