@@ -1,21 +1,28 @@
-
 {
-  "version": "2024.4.0",
-  "last_updated": "2024-04-02",
-  "update_message": "جميع القنوات المغربية متاحة الآن 🎬",
+  "version": "2026.1.0",
+  "last_updated": "2026-02-10",
+  "update_message": "تم تفعيل الإعلانات Native للتجربة 🔥",
   "total_channels": 12,
   "author": "Morocco TV App",
   "website": "https://moroccotv.app",
 
   "ads": {
-  "enable_ads": true,
-  "open_on_start": true,
-  "inter_every": 2,
-  "admob_banner": "ca-app-pub-/6300978111",
-  "admob_inter": "ca-app-pub-/13173712",
-  "admob_open": "",
-  "fb_banner": "IMG_16_9_APP_INSTALL#2312433698835503_2964944860251047",
-      "fb_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+    "enable_ads": true,
+    "open_on_start": true,
+    "inter_every": 2,
+
+    "native_enabled": true,
+    "native_every": 4,
+
+    "native_admob_id": "ca-app-pub-3940256099942544/2247696110",
+    "native_fb_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+
+    "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+    "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+    "admob_open": "ca-app-pub-3940256099942544/3419835294",
+
+    "fb_banner": "IMG_16_9_APP_INSTALL#2312433698835503_2964944860251047",
+    "fb_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
   },
   "channels": [
     {
