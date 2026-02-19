@@ -163,7 +163,7 @@
       "name_fr": "Chada TV",
       "logo": "chada",
       "stream_url": "https://edge11.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8",
-      "web_url": "https://chada.ma",
+      "web_url": "https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8",
       "category": "دينية",
       "is_snrt": false,
       "is_active": true,
