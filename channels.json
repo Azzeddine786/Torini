@@ -26,16 +26,16 @@
   },
   "channels": [
     {
-      "id": "channel_004",
-      "name_ar": "2M",
-      "name_fr": "Deux M",
-      "logo": "m2",
-      "stream_url": "https://stream-lb.livemedia.ma/2m-tnt/hls/stream_0/playlist.m3u8",
-      "web_url": "https://2m.ma",
+      "id": "channel_001",
+      "name_ar": "المغربية",
+      "name_fr": "Al Maghribia",
+      "logo": "maghribia",
+      "stream_url": "https://stream-lb.livemedia.ma/almaghribia/hls/stream_0/playlist.m3u8",
+      "web_url": "https://snrt.player.easybroadcast.io/events/73_almaghribia_83tz85q",
       "category": "مغربية",
-      "is_snrt": false,
+      "is_snrt": true,
       "is_active": true,
-      "order": 1
+      "order": 4
     },
     {
       "id": "channel_002",
@@ -61,17 +61,18 @@
       "is_active": true,
       "order": 3
     },
+    
     {
-      "id": "channel_001",
-      "name_ar": "المغربية",
-      "name_fr": "Al Maghribia",
-      "logo": "maghribia",
-      "stream_url": "https://stream-lb.livemedia.ma/almaghribia/hls/stream_0/playlist.m3u8",
-      "web_url": "https://snrt.player.easybroadcast.io/events/73_almaghribia_83tz85q",
+      "id": "channel_004",
+      "name_ar": "2M",
+      "name_fr": "Deux M",
+      "logo": "m2",
+      "stream_url": "https://stream-lb.livemedia.ma/2m-tnt/hls/stream_0/playlist.m3u8",
+      "web_url": "https://2m.ma",
       "category": "مغربية",
-      "is_snrt": true,
+      "is_snrt": false,
       "is_active": true,
-      "order": 4
+      "order": 1
     },
     {
       "id": "channel_005",
