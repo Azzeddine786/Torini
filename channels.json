@@ -125,7 +125,7 @@
       "id": "channel_009",
       "name_ar": "Medi1TV",
       "name_fr": "Médi 1 TV",
-      "logo": "medi1",
+      "logo": "https://raw.githubusercontent.com/Azzeddine786/Torini/refs/heads/main/logo_medi1news.webp",
       "stream_url": "https://stream-lb.livemedia.ma/medi1tv-maghreb/hls/stream_0/playlist.m3u8",
       "web_url": "https://streaming2.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8",
       "category": "أخبار",
