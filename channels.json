@@ -26,7 +26,7 @@
   },
   "channels": [
     {
-      "id": "channel_001",
+      "id": "channel_004",
       "name_ar": "2M",
       "name_fr": "Deux M",
       "logo": "m2",
@@ -62,7 +62,7 @@
       "order": 3
     },
     {
-      "id": "channel_004",
+      "id": "channel_001",
       "name_ar": "المغربية",
       "name_fr": "Al Maghribia",
       "logo": "maghribia",
