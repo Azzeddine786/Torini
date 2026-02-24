@@ -157,18 +157,7 @@
       "is_snrt": false,
       "is_active": true,
       "order": 11
-    },
-    {
-      "id": "channel_012",
-      "name_ar": "Chada TV",
-      "name_fr": "Chada TV",
-      "logo": "chada",
-      "stream_url": "https://edge11.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8",
-      "web_url": "https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8",
-      "category": "دينية",
-      "is_snrt": false,
-      "is_active": true,
-      "order": 12
+
     }
   ]
 }
