@@ -14,15 +14,15 @@
     "native_enabled": true,
     "native_every": 4,
 
-    "native_admob": "ca-app-pub-3940256099942544/2247696110",
-    "native_fb": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "native_admob": "ca-app-pub-39402560999422247696110",
+    "native_fb": "IMG_16_9_APP_INSTALL#YOURCEMENT_ID",
 
     "admob_banner": "",
-    "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+    "admob_inter": "ca-app-pub-394025609994254433173712",
     "admob_open": "ca-app-pub-3940256099942544/9257395921",
 
-    "fb_banner": "IMG_16_9_APP_INSTALL#2312433698835503_2964944860251047",
-    "fb_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+    "fb_banner": "IMG_16_9_APP_INSTALL#33698835503_2964944860251047",
+    "fb_inter": "IMG_16_9_APP_INSTA_PLACEMENT_ID"
   },
   "channels": [
     {
