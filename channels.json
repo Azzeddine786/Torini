@@ -68,17 +68,18 @@
   },
 
   "channels": [
+    
     {
-      "id": "channel_004",
-      "name_ar": "2M",
-      "name_fr": "Deux M",
-      "logo": "m2",
-      "stream_url": "https://stream-lb.livemedia.ma/2m-tnt/hls/stream_0/playlist.m3u8",
-      "web_url": "https://stream-lb.livemediama.com/2m-tnt/hls/stream_0/playlist.m3u8",
+      "id": "channel_005",
+      "name_ar": "السادسة",
+      "name_fr": "Assadissa",
+      "logo": "assadissa",
+      "stream_url": "https://stream-lb.livemedia.ma/assadissa/hls/stream_0/playlist.m3u8",
+      "web_url": "https://snrtlive.ma/fr/assadissa",
       "category": "مغربية",
-      "is_snrt": false,
+      "is_snrt": true,
       "is_active": true,
-      "order": 5
+      "order": 1
     },
     {
       "id": "channel_002",
@@ -117,16 +118,16 @@
       "order": 4
     },
     {
-      "id": "channel_005",
-      "name_ar": "السادسة",
-      "name_fr": "Assadissa",
-      "logo": "assadissa",
-      "stream_url": "https://stream-lb.livemedia.ma/assadissa/hls/stream_0/playlist.m3u8",
-      "web_url": "https://snrtlive.ma/fr/assadissa",
+      "id": "channel_004",
+      "name_ar": "2M",
+      "name_fr": "Deux M",
+      "logo": "m2",
+      "stream_url": "https://stream-lb.livemedia.ma/2m-tnt/hls/stream_0/playlist.m3u8",
+      "web_url": "https://stream-lb.livemediama.com/2m-tnt/hls/stream_0/playlist.m3u8",
       "category": "مغربية",
-      "is_snrt": true,
+      "is_snrt": false,
       "is_active": true,
-      "order": 1
+      "order": 5
     },
     {
       "id": "channel_006",
