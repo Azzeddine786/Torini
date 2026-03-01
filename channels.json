@@ -14,14 +14,14 @@
     "native_enabled": true,
     "native_every": 4,
 
-    "native_admob": "ca-app-pub-6369463662612526/3585303318",
-    "native_fb": "",
+    "native_admob": "",
+    "native_fb": "1522203031670641_2026973564526916",
 
-    "admob_banner": "ca-app-pub-6369463662612526/3992497428",
-    "admob_inter": "ca-app-pub-6369463662612526/6434827932",
-    "admob_open": "ca-app-pub-6369463662612526/4322731530",
+    "admob_banner": "",
+    "admob_inter": "",
+    "admob_open": "",
 
-    "fb_banner": "",
+    "fb_banner": "1522203031670641_2026973444526928",
     "fb_inter": "1522203031670641_2026974077860198",
 
     "ironsource": {
