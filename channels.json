@@ -1,41 +1,84 @@
 {
-  "version": "2026.1.0",
-  "last_updated": "2026-02-10",
-  "update_message": "تم تفعيل الإعلانات Native للتجربة 🔥",
-  "total_channels": 12,
+  "version": "2026.3.1",
+  "last_updated": "2026-03-01",
+  "update_message": "ترتيب الإعلانات: AdMob → Facebook → IronSource 🔥",
+  "total_channels": 11,
   "author": "Morocco TV App",
   "website": "https://moroccotv.app",
 
   "ads": {
     "enable_ads": true,
     "open_on_start": true,
-    "inter_every": 1,
-
+    "inter_every": 2,
+    
     "native_enabled": true,
     "native_every": 4,
 
-    "native_admob": "",
-    "native_fb": "1522203031670641_2026973564526916",
+    "native_admob": "ca-app-pub-6369463662612526/3585303318",
+    "native_fb": "",
 
-    "admob_banner": "",
-    "admob_inter": "",
-    "admob_open": "",
+    "admob_banner": "ca-app-pub-6369463662612526/3992497428",
+    "admob_inter": "ca-app-pub-6369463662612526/6434827932",
+    "admob_open": "ca-app-pub-6369463662612526/4322731530",
 
-    "fb_banner": "1522203031670641_2026973444526928",
-    "fb_inter": "1522203031670641_2026974077860198"
+    "fb_banner": "",
+    "fb_inter": "1522203031670641_2026974077860198",
+
+    "ironsource": {
+      "enabled": true,
+      "app_key": "2562543d5",
+      "banner_enabled": true,
+      "interstitial_enabled": true,
+      "rewarded_enabled": false,
+      "native_enabled": false,
+      "test_mode": false,
+      "banner_size": "BANNER",
+      "banner_position": "bottom",
+
+      "ad_units": {
+        "banner": "oyp16q8bhtdwdwan",
+        "interstitial": "hd3i67olodn910e2",
+        "native": "sic5kdgrlb8pjhz6",
+        "rewarded": "6150umc8ql63d5ix"
+      },
+      
+      "mediation": {
+        "admob": {
+          "banner": "ca-app-pub-6369463662612526/3992497428",
+          "interstitial": "ca-app-pub-6369463662612526/6434827932",
+          "native": "ca-app-pub-6369463662612526/3585303318",
+          "rewarded": "",
+          "app_open": "ca-app-pub-3940256099942544/97395921"
+        },
+        "facebook": {
+          "banner": "",
+          "interstitial": "1522203031670641_2026974077860198",
+          "native": "",
+          "rewarded": ""
+        }
+      }
+    },
+
+    "ad_priority": {
+      "interstitial": ["admob", "facebook", "ironsource"],
+      "banner": ["admob", "facebook", "ironsource"],
+      "native": ["admob", "facebook", "ironsource"],
+      "rewarded": ["admob", "ironsource"]
+    }
   },
+
   "channels": [
     {
-      "id": "channel_001",
-      "name_ar": "المغربية",
-      "name_fr": "Al Maghribia",
-      "logo": "maghribia",
-      "stream_url": "https://stream-lb.livemedia.ma/almaghribia/hls/stream_0/playlist.m3u8",
-      "web_url": "https://snrt.player.easybroadcast.io/events/73_almaghribia_83tz85q",
+      "id": "channel_004",
+      "name_ar": "2M",
+      "name_fr": "Deux M",
+      "logo": "m2",
+      "stream_url": "https://stream-lb.livemedia.ma/2m-tnt/hls/stream_0/playlist.m3u8",
+      "web_url": "https://stream-lb.livemediama.com/2m-tnt/hls/stream_0/playlist.m3u8",
       "category": "مغربية",
-      "is_snrt": true,
+      "is_snrt": false,
       "is_active": true,
-      "order": 4
+      "order": 1
     },
     {
       "id": "channel_002",
@@ -61,18 +104,17 @@
       "is_active": true,
       "order": 3
     },
-    
     {
-      "id": "channel_004",
-      "name_ar": "2M",
-      "name_fr": "Deux M",
-      "logo": "m2",
-      "stream_url": "https://stream-lb.livemedia.ma/2m-tnt/hls/stream_0/playlist.m3u8",
-      "web_url": "https://stream-lb.livemediama.com/2m-tnt/hls/stream_0/playlist.m3u8",
+      "id": "channel_001",
+      "name_ar": "المغربية",
+      "name_fr": "Al Maghribia",
+      "logo": "maghribia",
+      "stream_url": "https://stream-lb.livemedia.ma/almaghribia/hls/stream_0/playlist.m3u8",
+      "web_url": "https://snrt.player.easybroadcast.io/events/73_almaghribia_83tz85q",
       "category": "مغربية",
-      "is_snrt": false,
+      "is_snrt": true,
       "is_active": true,
-      "order": 1
+      "order": 4
     },
     {
       "id": "channel_005",
@@ -157,7 +199,6 @@
       "is_snrt": false,
       "is_active": true,
       "order": 11
-
     }
   ]
 }
