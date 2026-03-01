@@ -35,11 +35,12 @@
       "banner_size": "BANNER",
       "banner_position": "bottom",
 
+      
       "ad_units": {
-        "banner": "oyp16q8bhtdwdwan",
-        "interstitial": "hd3i67olodn910e2",
-        "native": "sic5kdgrlb8pjhz6",
-        "rewarded": "6150umc8ql63d5ix"
+        "banner": "DefaultBanner",
+        "interstitial": "DefaultInterstitial",
+        "native": "DefaultNative",
+        "rewarded": "DefaultRewarded"
       },
       
       "mediation": {
