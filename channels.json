@@ -44,16 +44,16 @@
       
       "mediation": {
         "admob": {
-          "banner": "ca-app-pub-6369463662612526/3992497428",
-          "interstitial": "ca-app-pub-6369463662612526/6434827932",
-          "native": "ca-app-pub-6369463662612526/3585303318",
+          "banner": "",
+          "interstitial": "",
+          "native": "",
           "rewarded": "",
-          "app_open": "ca-app-pub-3940256099942544/97395921"
+          "app_open": ""
         },
         "facebook": {
-          "banner": "",
+          "banner": "1522203031670641_2026973444526928",
           "interstitial": "1522203031670641_2026974077860198",
-          "native": "",
+          "native": "1522203031670641_2026973564526916",
           "rewarded": ""
         }
       }
