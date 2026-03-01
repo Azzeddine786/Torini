@@ -78,7 +78,7 @@
       "category": "مغربية",
       "is_snrt": false,
       "is_active": true,
-      "order": 1
+      "order": 5
     },
     {
       "id": "channel_002",
@@ -126,7 +126,7 @@
       "category": "مغربية",
       "is_snrt": true,
       "is_active": true,
-      "order": 5
+      "order": 1
     },
     {
       "id": "channel_006",
