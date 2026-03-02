@@ -26,7 +26,7 @@
 
     "ironsource": {
       "enabled": true,
-      "app_key": "2562543d5",
+      "app_key": "",
       "banner_enabled": true,
       "interstitial_enabled": true,
       "rewarded_enabled": false,
