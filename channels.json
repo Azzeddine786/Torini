@@ -9,7 +9,7 @@
   "ads": {
     "enable_ads": true,
     "open_on_start": true,
-    "inter_every": 2,
+    "inter_every": 1,
     
     "native_enabled": true,
     "native_every": 4,
