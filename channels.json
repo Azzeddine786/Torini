@@ -30,7 +30,7 @@
       "banner_enabled": true,
       "interstitial_enabled": true,
       "rewarded_enabled": false,
-      "native_enabled": false,
+      "native_enabled": true,
       "test_mode": false,
       "banner_size": "BANNER",
       "banner_position": "bottom",
