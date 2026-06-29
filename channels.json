@@ -12,7 +12,7 @@
     "inter_every": 1,
     
     "native_enabled": true,
-    "native_every": 4,
+    "native_every": 3,
 
     "native_admob": "",
     "native_fb": "1522203031670641_2127066391184299",
