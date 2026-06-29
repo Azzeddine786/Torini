@@ -15,7 +15,7 @@
     "native_every": 4,
 
     "native_admob": "",
-    "native_fb": "",
+    "native_fb": "1522203031670641_2127066391184299",
 
     "admob_banner": "",
     "admob_inter": "",
@@ -54,7 +54,7 @@
         "facebook": {
           "banner": "",
           "interstitial": "",
-          "native": "",
+          "native": "1522203031670641_2127066391184299",
           "rewarded": ""
         }
       }
